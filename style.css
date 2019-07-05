@@ -1,0 +1,49 @@
+body{
+    font-family: 'SimSun';
+}
+.container{
+    margin: 0 auto;
+    width: 800px;
+    height: auto;
+    border: 1px solid #999999;
+}
+.container h1{
+    text-align: center;
+}
+.container h3{
+    padding-left: 50px;
+}
+.container p{
+    padding-left: 80px;
+}
+.paper-info{
+    width: 450px;
+    height: auto;
+    margin: 0 auto;
+}
+.paper-info td{
+    width: 150px;
+    text-align: left;
+}
+input{
+    -web-kit-appearence:none;
+    outline: none;
+}
+[type="text"]{
+    width: 60px;
+    height: 14px;
+}
+.container span{
+    display: block;
+    margin-left: 90px;
+    line-height: 30px;
+}
+[type="button"]{
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 540px;
+}
